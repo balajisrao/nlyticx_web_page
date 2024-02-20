@@ -1,2 +1,2 @@
-# nlyticxpage
-nlyticx web page
+# nlyticx wbe page
+Initial coming soon web page.
